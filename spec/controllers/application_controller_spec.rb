@@ -11,5 +11,5 @@ RSpec.describe ApplicationController do
     it 'returns nil if nobody is logged in' do
       expect(subject.current_user).to be nil
     end
-  end
+  end 
 end
