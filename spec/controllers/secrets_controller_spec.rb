@@ -14,4 +14,4 @@ RSpec.describe SecretsController do
       assert_response 200
     end
   end
-end
+end 
